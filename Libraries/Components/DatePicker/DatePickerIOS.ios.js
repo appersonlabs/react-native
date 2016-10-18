@@ -142,6 +142,7 @@ const DatePickerIOS = React.createClass({
 const styles = StyleSheet.create({
   datePickerIOS: {
     height: 216,
+    width: 320,
   },
 });
 
